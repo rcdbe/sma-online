@@ -1,0 +1,148 @@
+Application Programming Interface List
+Social Media Analytic Online Workshop
+18th May 2020
+
+1. API 1
+API Name: SMA Workshop 1
+API Keys: 8c6g53lSeupE2anReETTs2vys
+API Secret Key: OltZDimReEajo9AEBAsAPqf78yyNzfrmH85aJzUzpqjAsH4Nxf
+Access Token: 201094280-dsxUFTbrXldpm8YjkziHqkmFqCkF9aRH4lLvq1oE
+Access Token Secret: VBpKAHnNCQjGjRpCLsrHROHufWX8tEbP3EAYblbYKNv5c
+
+2. API 2
+API Name: SMA Workshop 3
+API Keys: xwB3dR9JU0nuIUenS9bt5uVmI
+API Secret Key: Vk4POf97ZTHVgiMrDF3vKWb3jJpBtz8oLCSYIHzGVJllmo9E1f
+Access Token: 201094280-zdfAzC9vuA6JXwBanFmquCY0NWWSyJ8jt8Anb9qd
+Access Token Secret: JV0EZPSOIiRQm9d2ygyK6l0VByq44vdBvfNjmpDHX17Z7
+
+3. API 3
+API Name: SMA Workshop 4
+API Keys: V6ecyXIMwnIMNSwkL2Aufh7kn
+API Secret Key: CZso5Sq8lSGC3fNntvli3YYJk5xZIQpuT6nJrgaqIBRPqY2Z6M
+Access Token: 159365416-Ce4pO4BKhahBI1zf2WMzgovqkCMbwKNRgIEBzVpi
+Access Token Secret: mvVJCiqYc52BAm7cqdMfpd2EoLfwJs62TONdtSThzY1G0
+
+4. API 4
+API Name: SMA Workshop 5
+API Keys: IHWsh4OH2IWqGTR0pdSuI0KvQ
+API Secret Key: ew0X0Tw7UsVIh3v7fSu1fPZnGUpG4V6meUBV31ISJ6WtjSMaAN
+Access Token: 159365416-r0Ic6ggfB7sGHSuLtGJ7XKHD6hR0JowKys0Zkf0w
+Access Token Secret: WZB5b2sA37dWvbacRUPk3n7NiDatqOdE4fdHsdfwsbQ68
+
+5. API 5
+API Name: SMA Workshop 6
+API Keys: NZmPcE7mL7rGZa2iZhih6zVTN
+API Secret Key: WdJvJIhCX0jR0kDb9iImImjs9p8pvCyI3INdP0jVzbFbz1qNWE
+Access Token: 159365416-I4MaCjpRJI0RWBQorZkqi9NLwufpeR0CfY2x6Pwq
+Access Token Secret: HlZ9NUM4LjgOQrAYR5lF2JwNxsqpzVqgpYnwyYnp6nrxc
+6. API 6
+API Name: SMA Workshop 7
+API Keys: 33CXyjJkvXOMjqUzdBRl5166y
+API Secret Key: wzlQRdsEJL1q6JzqvVjmcH6E6SZDi48T7XygYz3Ni230QrquQs
+Access Token: 201094280-s4BP7PamKHrhBGDG842ujTf1o1ZlaZQniZXeDjyX
+Access Token Secret: Rj8gdmHDFI07h7pP3WK9mFiF0tx9KQ2r3GXYyhugkEnNX
+
+7. API 7
+API Name: SMA Workshop 8
+API Keys: ST8Yp756AtpzKh9WjmiBFxiwP
+API Secret Key: RumgQOXdqEgbbaClUhRm7hRxNrmEq3Ktnr09xH0K59TFE0S7Eo
+Access Token: 201094280-pDYfA0YPMPEhwNGnkB6JvH4eawDUeSSuy1uTqGLv
+Access Token Secret: oIvBogOtgHuGxsmIK9ASJ79And8w9GDs8D2mxK6RCiBZf
+
+8. API 8
+API Name: SMA Workshop 9
+API Keys: g1lo5vW89trqEuXwWHpmmhzHc
+API Secret Key: ZRp7liCxW9gyjXN8lIwIVOnqOsO09MrZOVWr2tjF5q2CMGmeMg
+Access Token: 201094280-taVBPGU2JTFKTORQ2FfOYCJxmn4pWL2l1pKOgxqw
+Access Token Secret: KFi3CSCDwYA4UQgUuhwsWnJE5udKmpfI5Y9bhSdtFvQfl
+
+9. API 9
+API Name: SMA Workshop 10
+API Keys: kOI817zdLOnXgHffCVGvW2bvK
+API Secret Key: nZwnGlZ1ih8Ap0nkqx3JzImK98owsenY6FDuc8cvUeVmnfcAEa
+Access Token: 201094280-efnw2C3YK2OLYo1XIT2d1btYUnIWrHFurOC0GH3q
+Access Token Secret: dYpmE8XmYVCQZ6qGkk0JU7R4kmuctKHxPi03mRcQxFXJ7
+
+10. API 10
+API Name: SMA Workshop 11
+API Keys: 3qDdzbtmFqAQScircVHipjgv7
+API Secret Key: Rdlbp0HS4yyi8k0oSrP2pay2ZgLMN3j88qJmXXSvWG38uLn5ju
+Access Token: 201094280-KpJZKGO0Axb4vs7rFjMnmxobHR55VLXnsKOzhC1V
+Access Token Secret: aotWKUu9OhPttEqZ0UIWVYh3JjCfwI8rijv7c05B3R68g
+11. API 11
+API Name: SMA Workshop 12
+API Keys: 0paOui5KWBDncph8U9ro7zs0j
+API Secret Key: 2BOnfSxId2AKH4GTkSY8D8JwDj6r4n2Sz9Hb4ee1v1PQIse9MT
+Access Token: 201094280-qsu2hsak6YjPIVJsFUwmSiswf8RUJ6F2W7AOF4St
+Access Token Secret: RvhoslmUr15MzZqNd908JkbjpIxs2Q0Xb7ckwq7cRfiEi
+
+12. API 12
+API Name: SMA Workshop 13
+API Keys: XZK3q49z4ncOpQI3PtNvJzCua
+API Secret Key: zOlvID2c4itSaz2DYUdT6hskpOXdzJVGOKBjVDCyptt2BKhkkI
+Access Token: 201094280-Z3dOatLo4V9Bf5fkMeJRddrdM6HLmf9Sv5aKVRfW
+Access Token Secret: YrDzkg9h5Glab1yNWMGTQEirXFMwKuXUYWwiNOkq8hW77
+
+13. API 13
+App name: SMA Workshop 1
+API Keys: 8c6g53lSeupE2anReETTs2vys
+API Secret Keys: n2T8V3kZkr4vk62P9desM899oupIW1sBmXPNt7J2Zuq6az1l1s,
+Access Token: 1040679220312064000-L69Ye4lcb6z0NkvgRlbA0vvCDT0xtd
+Access Token Secret: FDoB9a3PdF7KUmnxBxw3B10jIOVDAcdYgCN61lgyJw6su
+
+14. API 14
+App name: SMA – Online 13
+API Keys: dCiTSlVwhJen7RxXflLMqoYCV
+API Secret Keys: n2T8V3kZkr4vk62P9desM899oupIW1sBmXPNt7J2Zuq6az1l1s
+Access Token: 1040679220312064000-L69Ye4lcb6z0NkvgRlbA0vvCDT0xtd
+Access Token Secret: FDoB9a3PdF7KUmnxBxw3B10jIOVDAcdYgCN61lgyJw6su
+
+15. API 15
+App name: SMA - Online 14
+API Keys: TDShZQbLJkcxHMdHVtvfflCuf
+API Secret Keys: gYpeSzXCccqcwfOqb8EAeHvlm0VVPqdvC1IMMPndtT5grg4ct7
+Access Token: 1040679220312064000-8fEZ3xUbgh3ZMR4396M0SBrbVN7H3c
+Access Token Secret: glGMlhv3ZaS1hftg1uNulxuNxSrl8iHuezoK3P8efbdgJ
+
+16. API 16
+App name: SMA – Online 15
+API Keys: KOdXZ65PRHhHm4aXnQJmMgvyu
+API Secret Keys: wbE4Tq1mwmSopsyJcMOD1pvXfsXJ46zSPpr2XoXqkkj3dxd8mB
+Access Token: 1040679220312064000-GQkgZAOMv3mjhVat7S7KXOGZr4MfYc
+Access Token Secret: uofqQlBcSekhieP56cRjUN25xQMcIyY2Ukww4Ys0J3OXV
+17. API 17
+App name: SMA – Online 16
+API Keys: u5JK90RxrHb7hg0dBwdQT8QOv
+API Secret Keys: rmqyOetJ5TTcTYnR3qs8CptsDdkZS7VcTjQF7Q2Qqk1KYqRcqZ
+Access Token: 1040679220312064000-QuOtowMGZpp8TdZA9EhT4rKFL1BYyo
+Access Token Secret: tzBa29rU20NxPGJAqmFahqKkybwBqhAw73E2O85k7meio
+
+18. API 18
+App name: SMA – Online 1
+API Keys: dQoGlmFDKD39PhJXmaORTSyNB
+API Secret Keys: ojsv1NKNiVFkckxSBfhSvvirOPkMPucx5TDjtIsHTakcGnrOUK
+Access Token: 1040679220312064000-xygunIDaRRN0yCMuz5TDPSnorKo01C
+Access Token Secret: BN2fbf408l1yoCid2Kmzpy9L1ZRNAe6H1QvE8TfJUhv9e
+
+19. API 19
+App name: SMA – Online 2
+API Keys: M6UxVuKgotwN4jX9MV6LP4mjI
+API Secret Keys: PfVoLGTKoS2G7mP6Wdg70RWRPBESFMj2cZZPcLGb9rtWqQgUCM
+Access Token: 1040679220312064000-GgT7zQGwA4IZRhWQ0ddYMI5NCm20g1
+Access Token Secret: OO2GwNuqucfnbmMCXjzzKLvOIjHm98nsiYrm3IyXWc180
+
+20. API 20
+App name: SMA – Online 3
+API Keys: GNpS1Odjys4qft73qPIsJe7Ud
+API Secret Keys: y43tV4mwSJkpZdyVqrPUnJelZBTzBeWMb3JkPjbch8Hpwm1WAx
+Access Token: 1040679220312064000-56DNtuoC9amb50qykKEju9Msdc0U41
+Access Token Secret: SGasTUVNKcKwOMPezOkuC2URNqkUTfwklcRLtdiPSRspE
+
+
+
+
+
+
+
+
